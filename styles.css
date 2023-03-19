@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(166, 219, 201);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+h2,
+h3 {
+    font-weight: 500;
+    color:#f54e4e;
+}
+
+p,
+ul,
+li{
+    font-size: 18px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
